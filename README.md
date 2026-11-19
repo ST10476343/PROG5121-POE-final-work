@@ -7,7 +7,7 @@ Group: Group2
 Course: information's technology in Business systems
 Subject: PROG5121
 Links
-GitHub Repository: 
+GitHub Repository: https://github.com/ST10476343/PROG5121-POE-final-work/tree/main
 YouTube Video: https://youtu.be/KeimIa6aNFI
 GitHub and GitHub Actions Utilization
 ---
@@ -39,4 +39,20 @@ Login Password:	Nofiltah@8
 Video Demo:
 A video showcasing the app's functionality can be viewed here:
 References
+
+Bray, T. (2017) The JavaScript Object Notation (JSON) Data Interchange Format. RFC 8259. Internet Engineering Task Force. Available at: https://www.rfc-editor.org/rfc/rfc8259.html (Accessed: 19 November 2026).
+
+GitHub (n.d.) Building and testing your code: Java with Maven. Available at: https://docs.github.com/en/actions/tutorials/build-and-test-code/building-and-testing-java-with-maven (Accessed: 19 November 2026).
+
+JUnit Team (2024) JUnit 5 User Guide. Version 5.10.2. Available at: https://docs.junit.org/5.10.2/user-guide/index.html (Accessed: 19 November 2026).
+
+Oracle (2023) Java Platform, Standard Edition 21 API Specification: ArrayList. Available at: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayList.html (Accessed: 19 November 2026).
+
+Oracle (2023) Java Platform, Standard Edition 21 API Specification: Pattern. Available at: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html (Accessed: 19 November 2026).
+
+Oracle (2023) Java Platform, Standard Edition 21 API Specification: String. Available at: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/String.html (Accessed: 19 November 2026).
+
+The Apache Software Foundation (n.d.) Maven Getting Started Guide. Available at: https://maven.apache.org/guides/getting-started/ (Accessed: 19 November 2026).
+
+The Apache Software Foundation (n.d.) Maven POM Reference. Available at: https://maven.apache.org/pom.html (Accessed: 19 November 2026).
 ---
