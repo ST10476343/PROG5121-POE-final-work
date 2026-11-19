@@ -1,40 +1,42 @@
-# QuickChat – PROG5121 POE (Parts 1, 2 and 3)
+Basic Information
+---
+POE
+Developer: Thoriso Kobe
+Student Number: ST10476343
+Group: Group2
+Course: information's technology in Business systems
+Subject: PROG5121
+Links
+GitHub Repository: 
+YouTube Video: https://youtu.be/KeimIa6aNFI
+GitHub and GitHub Actions Utilization
+---
+GitHub and GitHub Actions
+This project was managed using GitHub for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity.
+GitHub Actions:
+I utilized GitHub Actions to automate the build and deployment process. This includes:
+Running automated tests to ensure the app’s functionality.
+Compiling the app into APK and AAB files, which are the formats required for distribution.
+Uploading these build artifacts to GitHub for easy access.
+The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
+---
+Screenshots and App Demo
+loginTest: <img width="1914" height="1078" alt="LoginTest" src="https://github.com/user-attachments/assets/e1a6ad79-4acc-4c15-a521-219e385e98a3" />
+working Code: <img width="1919" height="1079" alt="code is working" src="https://github.com/user-attachments/assets/08c5dc8a-9474-4a42-b066-4791f1764c5d" />
+Login Requirements: <img width="1919" height="1079" alt="login requirements" src="https://github.com/user-attachments/assets/a5805231-bd02-4e8f-9917-d4f36dfda986" />
+---
+INPUTS to run program
 
-QuickChat is a Java console application that registers and logs in a user, sends messages, stores messages in a JSON file, and provides message searching and reporting features.
+First Name:	Thoriso
+Last Name:	Kobe
+Username:	thor_
+Password:	Nofiltah@8
+Phone Number:	+27750177749
+Login Username:	thor_
+Login Password:	Nofiltah@8
+---
 
-## Requirements
-- JDK 21 or later
-- Apache Maven 3.8 or later
-- Internet access the first time Maven downloads the JUnit test dependency
-
-## Open and run
-Open this folder as a Maven project in NetBeans or IntelliJ.
-
-From a terminal in the project folder, run:
-
-```bash
-mvn clean test
-mvn exec:java
-```
-
-The application asks the user to register and log in before showing the main menu.
-
-## Main menu
-1. Send Messages
-2. Show recently sent messages
-3. Quit
-4. Stored Messages
-
-The Stored Messages menu provides options to display sender/recipient details, find the longest stored message, search by message ID, search by recipient, delete by message hash, and display a report.
-
-## Message storage
-Stored messages are written to `messages.json` in the folder from which the application is run. The file is created automatically when the first message is stored. The application reads this JSON file when it starts the message manager.
-
-## Tests
-The test suite includes the registration/login tests from Part 1, the message validation and JSON tests from Part 2, and the array/search/delete/report tests for Part 3.
-
-## Notes
-- User registration requires a username containing an underscore and no more than five characters, a password of at least eight characters containing an uppercase letter, a digit and a special character, and a South African cellphone number in `+27` format.
-- Message recipients must use `+27` followed by nine digits.
-- Messages may contain up to 250 characters.
-- Message arrays are populated as users send, disregard or store messages; the application does not pre-populate production arrays with lecturer test data.
+Video Demo:
+A video showcasing the app's functionality can be viewed here:
+References
+---
