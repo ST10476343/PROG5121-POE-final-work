@@ -1,0 +1,6 @@
+target/
+build-check/
+messages.json
+*.class
+.idea/
+nbproject/private/
